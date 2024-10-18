@@ -1,9 +1,15 @@
 # SOC-Design
+## Section 1 
+### 1. Run 'picorv32a'synthesis:
 ![Screenshot from 2024-10-18 19-11-25](https://github.com/user-attachments/assets/a78e6729-6a09-489f-82bb-0698fc0858ed)
 ![Screenshot from 2024-10-18 19-11-48](https://github.com/user-attachments/assets/485313ef-53fd-448e-bf83-dcfe3ba4918d)
 ![Screenshot from 2024-10-18 19-12-15](https://github.com/user-attachments/assets/4caba8aa-4e9a-4938-91c2-3178fcc6ac06)
 ![Screenshot from 2024-10-18 19-13-03](https://github.com/user-attachments/assets/f378bc95-42ff-4cbb-a215-2dfa69445dc5)
+### 2. Calculate the Flop Ratio
 ![Screenshot from 2024-10-18 19-29-12](https://github.com/user-attachments/assets/b5e06a49-b54b-4a71-902f-f1114dafe3f3)
+ Flop RAtio= 1213/14876= 0.108429685
+ Percentage of DFF's= 0.108429685*100= 10.84296854
+ ## Section 2: Floorplan and Library Cells
 ![Screenshot from 2024-10-18 19-39-35](https://github.com/user-attachments/assets/6d0791bb-80dc-44c9-9cb7-a3cf8d460209)
 ![Screenshot from 2024-10-18 19-39-47](https://github.com/user-attachments/assets/816692ce-6fe7-4a71-916d-81cecc3208a7)
 ![Screenshot from 2024-10-18 19-43-01](https://github.com/user-attachments/assets/db313a2f-0502-4be5-88b1-bb07add8ee78)
