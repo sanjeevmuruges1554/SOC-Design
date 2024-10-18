@@ -30,10 +30,13 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-18 20-00-54](https://github.com/user-attachments/assets/d8166ff6-3a16-4e2a-abf7-69314f5c2278)
 ![Screenshot from 2024-10-18 20-01-29](https://github.com/user-attachments/assets/91f019d5-a1d1-4547-bb54-83526da98270)
 ![Screenshot from 2024-10-18 20-01-46](https://github.com/user-attachments/assets/2ca0a35b-e2fc-449f-8dc6-8f5132b6b109)
+### 4.Run congestion aware placement
 ![Screenshot from 2024-10-18 20-02-09](https://github.com/user-attachments/assets/e2c529ec-8ec8-49d9-9f8d-f514ad53cf8e)
 ![Screenshot from 2024-10-18 20-02-40](https://github.com/user-attachments/assets/1c176fe1-8c17-41fd-906e-30e960fec894)
+### 5. Load denerated placement def in Magic and explore the placement
 ![Screenshot from 2024-10-18 20-04-37](https://github.com/user-attachments/assets/a4e172ba-381c-42f0-8e35-f053440a9df7)
 ![Screenshot from 2024-10-18 20-04-52](https://github.com/user-attachments/assets/3f073cc3-83b0-4463-b81b-80be7beb3ed7)
+## Section 3
 ![Screenshot from 2024-10-18 20-05-06](https://github.com/user-attachments/assets/2fb49415-3d31-4b50-b436-92bfc21b46a5)
 ![Screenshot from 2024-10-18 20-11-36](https://github.com/user-attachments/assets/50561fa5-cc4f-4af9-9f85-103007d355f4)
 ![Screenshot from 2024-10-18 20-11-46](https://github.com/user-attachments/assets/969c7e20-c5ef-4dc1-8664-0468525f707c)
