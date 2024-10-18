@@ -10,9 +10,20 @@
  Flop RAtio= 1213/14876= 0.108429685
  Percentage of DFF's= 0.108429685*100= 10.84296854
  ## Section 2: Floorplan and Library Cells
+ ### 1. Run Floorplan
 ![Screenshot from 2024-10-18 19-39-35](https://github.com/user-attachments/assets/6d0791bb-80dc-44c9-9cb7-a3cf8d460209)
 ![Screenshot from 2024-10-18 19-39-47](https://github.com/user-attachments/assets/816692ce-6fe7-4a71-916d-81cecc3208a7)
+### 2. Calculate Die Area
 ![Screenshot from 2024-10-18 19-43-01](https://github.com/user-attachments/assets/db313a2f-0502-4be5-88b1-bb07add8ee78)
+ 1000  Unit Distance= 1 Micron
+Die within Unit Distance = 660685 − 0 = 660685
+Die height in unit Distance = 671405 − 0 = 671405
+Distance in Microns=Value in Unit Distance 1000
+Die width in Microns = 660685 1000 = 660.685 MIcrons
+Die Height in Microns = 671405 1000 = 671.405 Microns
+Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
+
+### 3. Load Generated floorplan in Magic
 ![Screenshot from 2024-10-18 19-58-05](https://github.com/user-attachments/assets/92e9c495-79b9-4443-a9b4-b5445e8b56ac)
 ![Screenshot from 2024-10-18 19-59-43](https://github.com/user-attachments/assets/cbec5ffc-133c-418b-b1f0-1e3dfd7db9c1)
 ![Screenshot from 2024-10-18 20-00-29](https://github.com/user-attachments/assets/21065f14-978a-4099-86c9-eb2cb341e440)
