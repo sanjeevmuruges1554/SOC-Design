@@ -9,18 +9,19 @@
 ![Screenshot from 2024-10-18 19-29-12](https://github.com/user-attachments/assets/b5e06a49-b54b-4a71-902f-f1114dafe3f3)
  Flop Ratio= 1213/14876= 0.108429685
  Percentage of DFF's= 0.108429685*100= 10.84296854
+ 
  ## Section 2: Floorplan and Library Cells
  ### 1. Run Floorplan
 ![Screenshot from 2024-10-18 19-39-35](https://github.com/user-attachments/assets/6d0791bb-80dc-44c9-9cb7-a3cf8d460209)
 ![Screenshot from 2024-10-18 19-39-47](https://github.com/user-attachments/assets/816692ce-6fe7-4a71-916d-81cecc3208a7)
 ### 2. Calculate Die Area
 ![Screenshot from 2024-10-18 19-43-01](https://github.com/user-attachments/assets/db313a2f-0502-4be5-88b1-bb07add8ee78)
- 1000  Unit Distance= 1 Micron \\
-Die within Unit Distance = 660685 − 0 = 660685 \\
-Die height in unit Distance = 671405 − 0 = 671405 \\
-Distance in Microns=Value in Unit Distance 1000\\
-Die width in Microns = 660685 1000 = 660.685 MIcrons\\
-Die Height in Microns = 671405 1000 = 671.405 Microns\\
+ 1000  Unit Distance= 1 Micron \
+Die within Unit Distance = 660685 − 0 = 660685 \
+Die height in unit Distance = 671405 − 0 = 671405 \
+Distance in Microns=Value in Unit Distance 1000\
+Die width in Microns = 660685 1000 = 660.685 MIcrons
+Die Height in Microns = 671405 1000 = 671.405 Microns\
 Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 
 ### 3. Load Generated floorplan in Magic
@@ -62,6 +63,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ### 6. Find problem in DRC section of magic file
 ![Screenshot from 2024-10-18 22-40-11](https://github.com/user-attachments/assets/080f9802-86a1-4b0d-969e-59620d257ccc)
 ![Screenshot from 2024-10-18 22-43-36](https://github.com/user-attachments/assets/4b1a1e94-e1be-4062-9a30-60feeb394be2)
+## Section 4 
 ![Screenshot from 2024-10-18 22-54-14](https://github.com/user-attachments/assets/c87cf397-75a8-4e42-81fc-d5786f78b3ca)
 ![Screenshot from 2024-10-18 22-57-06](https://github.com/user-attachments/assets/2eea1763-ca38-4531-a5b5-2415a59c6ae7)
 ![Screenshot from 2024-10-18 22-57-45](https://github.com/user-attachments/assets/4ddeb6ec-847b-4ae7-ba42-370459f6e3bb)
@@ -152,6 +154,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 03-37-20](https://github.com/user-attachments/assets/59824a97-f0a7-4d26-b4db-aca370f206fe)
 ![Screenshot from 2024-10-19 03-38-10](https://github.com/user-attachments/assets/22f9e2ad-f066-4539-b8a4-b942b4711f1e)
 ![Screenshot from 2024-10-19 03-38-28](https://github.com/user-attachments/assets/76441e43-675f-4dc0-b128-eb1bf6b6d4ab)
+### 2. Detailed Routing with TritonRoute and explore
 ![Screenshot from 2024-10-19 03-39-46](https://github.com/user-attachments/assets/90bdf003-f4af-4b08-997e-34b090a358b0)
 ![Screenshot from 2024-10-19 04-08-10](https://github.com/user-attachments/assets/eeee3fea-dc72-42fd-81c5-d0d2790022bc)
 ![Screenshot from 2024-10-19 04-08-30](https://github.com/user-attachments/assets/72f17d29-baa3-4b49-ba22-44083c6e2225)
@@ -160,7 +163,9 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 04-13-03](https://github.com/user-attachments/assets/47c9304b-ec89-4dfa-92a7-9c34c0572ab1)
 ![Screenshot from 2024-10-19 04-13-37](https://github.com/user-attachments/assets/3eaae65a-2f03-4731-91e6-57a8afa1f898)
 ![Screenshot from 2024-10-19 04-14-41](https://github.com/user-attachments/assets/68491760-3785-46f5-b43a-64975a5b92df)
+### 3.Post route parasitic extractiion using SPEF extractor
 ![Screenshot from 2024-10-19 04-31-02](https://github.com/user-attachments/assets/61eb846a-1488-40d1-84bb-829766d2c04b)
+### 4.Post-Route openSTA STA
 ![Screenshot from 2024-10-19 04-31-09](https://github.com/user-attachments/assets/8d0c0141-2071-459c-bd15-ce2535d92ce8)
 ![Screenshot from 2024-10-19 04-31-13](https://github.com/user-attachments/assets/54a9eef1-fa20-4c45-ab8a-803fc8f9519b)
 ![Screenshot from 2024-10-19 04-31-15](https://github.com/user-attachments/assets/8c8cbca3-ee32-4235-964a-7411804e82b5)
