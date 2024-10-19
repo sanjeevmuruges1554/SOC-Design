@@ -147,10 +147,10 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 03-24-18](https://github.com/user-attachments/assets/52810ae7-05b4-450c-aa97-4626677af6cc)
 ![Screenshot from 2024-10-19 03-25-06](https://github.com/user-attachments/assets/fefe5d84-f50a-40d0-80dd-99a2cd843eda)
 ![Screenshot from 2024-10-19 03-25-32](https://github.com/user-attachments/assets/67a7c6e2-6dba-460e-809a-17aa748ee714)
+## Section 5
+### 1.Perform deneration of PDN and explore the layout
 ![Screenshot from 2024-10-19 03-27-38](https://github.com/user-attachments/assets/f0dd7e66-9749-4e47-a382-6f26b0f0a4da)
 ![Screenshot from 2024-10-19 03-27-51](https://github.com/user-attachments/assets/cf3ae6f9-e639-4dd8-a7c3-fe76b3e158f7)
-![Screenshot from 2024-10-19 03-30-12](https://github.com/user-attachments/assets/bf9374b0-7cc8-4a7c-8ac9-c622df3bce10)
-
 ![Screenshot from 2024-10-19 03-37-20](https://github.com/user-attachments/assets/59824a97-f0a7-4d26-b4db-aca370f206fe)
 ![Screenshot from 2024-10-19 03-38-10](https://github.com/user-attachments/assets/22f9e2ad-f066-4539-b8a4-b942b4711f1e)
 ![Screenshot from 2024-10-19 03-38-28](https://github.com/user-attachments/assets/76441e43-675f-4dc0-b128-eb1bf6b6d4ab)
