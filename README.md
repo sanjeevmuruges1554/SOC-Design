@@ -103,12 +103,12 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 01-19-08](https://github.com/user-attachments/assets/63e639fa-0d5f-4c12-aa1b-282ac582aaf7)
 ![Screenshot from 2024-10-19 01-26-25](https://github.com/user-attachments/assets/a9a6317f-bb14-4a42-9888-254c72e4d348)
 ![Screenshot from 2024-10-19 01-27-46](https://github.com/user-attachments/assets/0fc80801-f3e9-4266-b853-0540463e40c0)
-### 10.Make timing ECO fixes to remove all violations
 ![Screenshot from 2024-10-19 01-28-02](https://github.com/user-attachments/assets/19d60827-8edc-4c3f-a2db-8ea82332500a)
 ![Screenshot from 2024-10-19 01-28-31](https://github.com/user-attachments/assets/3c6e0d40-8dd1-4048-a30b-28b4898118c2)
 ![Screenshot from 2024-10-19 01-28-41](https://github.com/user-attachments/assets/70354b11-24c3-45d3-9f6b-ef48684a2e95)
 ![Screenshot from 2024-10-19 01-28-46](https://github.com/user-attachments/assets/aca6384a-533a-4103-b13a-94f7de43f07b)
 ![Screenshot from 2024-10-19 01-28-52](https://github.com/user-attachments/assets/9b7fc232-80bb-4125-a467-c61a69f1f859)
+### 7.Make timing ECO fixes to remove all violations
 ![Screenshot from 2024-10-19 01-29-20](https://github.com/user-attachments/assets/5f954f7d-927c-4725-8675-f51b32626920)
 ![Screenshot from 2024-10-19 01-31-23](https://github.com/user-attachments/assets/f199aced-1ec8-455c-912c-1636ab14c9ba)
 ![Screenshot from 2024-10-19 01-31-50](https://github.com/user-attachments/assets/802753a0-77bf-4619-806d-6d7f7fd54e78)
@@ -134,9 +134,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 01-59-07](https://github.com/user-attachments/assets/75413e0f-02d4-43c5-bb14-9168abe3f8e8)
 ![Screenshot from 2024-10-19 02-00-29](https://github.com/user-attachments/assets/95ae15fb-cc70-4bec-811c-f5e950da3e7d)
 ![Screenshot from 2024-10-19 02-03-15](https://github.com/user-attachments/assets/852ee1b0-7f23-439a-8401-1d90e5154213)
-![Screenshot from 2024-10-19 02-33-11](https://github.com/user-attachments/assets/2cd6c1f5-8665-4109-8a36-9e49fddd648d)
-![Screenshot from 2024-10-19 02-33-15](https://github.com/user-attachments/assets/c7b3f502-02ec-4cb0-a29a-12a7dade8f5a)
-![Screenshot from 2024-10-19 02-40-34](https://github.com/user-attachments/assets/6113c11c-20a4-408f-adb3-9fcb69a8846a)
+### 9.Post-CTS
 ![Screenshot from 2024-10-19 03-03-01](https://github.com/user-attachments/assets/0327550b-9c7e-4c20-9135-01ab269f94f5)
 ![Screenshot from 2024-10-19 03-03-06](https://github.com/user-attachments/assets/daae318e-4c7f-4143-9d9d-5bfc921d4f4d)
 ![Screenshot from 2024-10-19 03-10-53](https://github.com/user-attachments/assets/9008e21b-7a99-4989-b087-303bc8287bbc)
@@ -145,6 +143,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 03-11-07](https://github.com/user-attachments/assets/6346e790-da6e-4241-917d-9b490f8a69a3)
 ![Screenshot from 2024-10-19 03-14-42](https://github.com/user-attachments/assets/afea1508-4787-4a5e-9595-5d06b347f41b)
 ![Screenshot from 2024-10-19 03-15-25](https://github.com/user-attachments/assets/07829baa-3e0f-41fc-8d36-7537d69f1a9d)
+### 10.Post-CTS after removing a cell
 ![Screenshot from 2024-10-19 03-24-18](https://github.com/user-attachments/assets/52810ae7-05b4-450c-aa97-4626677af6cc)
 ![Screenshot from 2024-10-19 03-25-06](https://github.com/user-attachments/assets/fefe5d84-f50a-40d0-80dd-99a2cd843eda)
 ![Screenshot from 2024-10-19 03-25-32](https://github.com/user-attachments/assets/67a7c6e2-6dba-460e-809a-17aa748ee714)
