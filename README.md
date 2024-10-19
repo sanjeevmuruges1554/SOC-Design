@@ -51,16 +51,16 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ### 4. Editing the SPICE model file for analysis through simulation
 ![Screenshot from 2024-10-18 20-46-46](https://github.com/user-attachments/assets/5f54acc5-fd6b-463d-b614-8dc1591d5f30)
 ![Screenshot from 2024-10-18 22-34-49](https://github.com/user-attachments/assets/16da83dd-d6c7-4d3b-babd-05b0acadec9a)
-![Screenshot from 2024-10-18 22-35-18](https://github.com/user-attachments/assets/689ac044-7aa6-4798-80df-39e1f70b8022)
 ### 5. Post-Layout ngspice simulations
+![Screenshot from 2024-10-18 22-35-18](https://github.com/user-attachments/assets/689ac044-7aa6-4798-80df-39e1f70b8022)
 ![Screenshot from 2024-10-18 22-35-30](https://github.com/user-attachments/assets/8c70544a-82bb-4a5c-a580-ef1cd0c18ac0)
 ![Screenshot from 2024-10-18 22-36-34](https://github.com/user-attachments/assets/466a1989-2dca-482a-a79f-b20a2aebc05e)
 ![Screenshot from 2024-10-18 22-37-12](https://github.com/user-attachments/assets/451b5d45-5fdc-4c00-8e76-6e4ce37a74e2)
 ![Screenshot from 2024-10-18 22-37-18](https://github.com/user-attachments/assets/83e15849-9eac-4e29-b985-9ea80abec226)
 ![Screenshot from 2024-10-18 22-38-24](https://github.com/user-attachments/assets/56b56150-4472-4859-896c-ef0d05afe5b8)
 ![Screenshot from 2024-10-18 22-38-39](https://github.com/user-attachments/assets/09d9bee4-bfcb-4fd3-8833-65cd0bd2aab9)
-![Screenshot from 2024-10-18 22-40-11](https://github.com/user-attachments/assets/080f9802-86a1-4b0d-969e-59620d257ccc)
 ### 6. Find problem in DRC section of magic file
+![Screenshot from 2024-10-18 22-40-11](https://github.com/user-attachments/assets/080f9802-86a1-4b0d-969e-59620d257ccc)
 ![Screenshot from 2024-10-18 22-43-36](https://github.com/user-attachments/assets/4b1a1e94-e1be-4062-9a30-60feeb394be2)
 ![Screenshot from 2024-10-18 22-54-14](https://github.com/user-attachments/assets/c87cf397-75a8-4e42-81fc-d5786f78b3ca)
 ![Screenshot from 2024-10-18 22-57-06](https://github.com/user-attachments/assets/2eea1763-ca38-4531-a5b5-2415a59c6ae7)
