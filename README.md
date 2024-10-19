@@ -75,7 +75,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-18 23-51-02](https://github.com/user-attachments/assets/65ff6382-ce46-469f-9b18-60be4f80306f)
 ![Screenshot from 2024-10-18 23-51-58](https://github.com/user-attachments/assets/48544fb5-b3d5-4fe2-a751-ac0c0ebd2a91)
 ![Screenshot from 2024-10-18 23-53-15](https://github.com/user-attachments/assets/cd9086e6-c4a2-40f0-964c-4b69a79f2aaf)
-###  $. Remove and reduce newly introduced violations
+###  5. Remove and reduce newly introduced violations
 ![Screenshot from 2024-10-18 23-54-34](https://github.com/user-attachments/assets/cf6a54f2-10da-4846-95df-67149e6f63d6)
 ![Screenshot from 2024-10-18 23-54-39](https://github.com/user-attachments/assets/ee94075d-c779-42ca-80ea-01fe1bcc33dd)
 ![Screenshot from 2024-10-19 00-15-49](https://github.com/user-attachments/assets/2737f774-2e8b-4fa4-a268-5132f8a1fe5a)
@@ -85,6 +85,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 00-28-04](https://github.com/user-attachments/assets/0cada9cc-3194-418c-bb95-42aa48c176cf)
 ![Screenshot from 2024-10-19 00-28-21](https://github.com/user-attachments/assets/80baa484-1e83-45b9-aa2f-12f84f6cff69)
 ![Screenshot from 2024-10-19 00-28-51](https://github.com/user-attachments/assets/9c0f15e6-a498-4fb1-8cdb-8a14d7ef9560)
+### 6.Once Synthesis is over run floorplan
 ![Screenshot from 2024-10-19 00-29-01](https://github.com/user-attachments/assets/bad8f728-0c8f-4127-a2dc-151f114ee151)
 ![Screenshot from 2024-10-19 00-29-07](https://github.com/user-attachments/assets/35a03231-f487-4845-9ca6-7778a30eac5d)
 ![Screenshot from 2024-10-19 00-29-16](https://github.com/user-attachments/assets/018576bc-e912-4c97-99ce-920938c7d619)
@@ -96,16 +97,13 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 00-34-23](https://github.com/user-attachments/assets/1120014f-7a99-4532-9413-04f887bbaa52)
 ![Screenshot from 2024-10-19 00-34-36](https://github.com/user-attachments/assets/b40b33ca-bb00-43c7-9027-46a630f908b9)
 ![Screenshot from 2024-10-19 00-39-55](https://github.com/user-attachments/assets/6b20b12c-ea2e-4ad5-9ec8-e5d4a79b9987)
-![Screenshot from 2024-10-19 00-55-05](https://github.com/user-attachments/assets/b74e5b85-b628-42e4-8640-e40052584642)
-![Screenshot from 2024-10-19 00-57-05](https://github.com/user-attachments/assets/85dfbdf4-ac35-453a-b5ec-6a1c2adf4173)
-![Screenshot from 2024-10-19 00-58-14](https://github.com/user-attachments/assets/e3c75045-e001-4d7c-925d-a98bf300c983)
-![Screenshot from 2024-10-19 01-05-44](https://github.com/user-attachments/assets/a4685a1f-e54a-4d20-8ca1-ff0b238c9feb)
 ![Screenshot from 2024-10-19 01-17-56](https://github.com/user-attachments/assets/cd2ffdca-a11c-4684-b000-8813375692b9)
 ![Screenshot from 2024-10-19 01-18-44](https://github.com/user-attachments/assets/736b8393-b966-4522-8508-621c61a74e0a)
 ![Screenshot from 2024-10-19 01-19-05](https://github.com/user-attachments/assets/f2fd5b0f-0a64-4591-93e2-644e4b73a454)
 ![Screenshot from 2024-10-19 01-19-08](https://github.com/user-attachments/assets/63e639fa-0d5f-4c12-aa1b-282ac582aaf7)
 ![Screenshot from 2024-10-19 01-26-25](https://github.com/user-attachments/assets/a9a6317f-bb14-4a42-9888-254c72e4d348)
 ![Screenshot from 2024-10-19 01-27-46](https://github.com/user-attachments/assets/0fc80801-f3e9-4266-b853-0540463e40c0)
+### 10.Make timing ECO fixes to remove all violations
 ![Screenshot from 2024-10-19 01-28-02](https://github.com/user-attachments/assets/19d60827-8edc-4c3f-a2db-8ea82332500a)
 ![Screenshot from 2024-10-19 01-28-31](https://github.com/user-attachments/assets/3c6e0d40-8dd1-4048-a30b-28b4898118c2)
 ![Screenshot from 2024-10-19 01-28-41](https://github.com/user-attachments/assets/70354b11-24c3-45d3-9f6b-ef48684a2e95)
