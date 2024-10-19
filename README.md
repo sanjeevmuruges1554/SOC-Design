@@ -63,16 +63,19 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ### 6. Find problem in DRC section of magic file
 ![Screenshot from 2024-10-18 22-40-11](https://github.com/user-attachments/assets/080f9802-86a1-4b0d-969e-59620d257ccc)
 ![Screenshot from 2024-10-18 22-43-36](https://github.com/user-attachments/assets/4b1a1e94-e1be-4062-9a30-60feeb394be2)
-## Section 4 
+## Section 4-Pre-layout timing analysis and imposrtanceof good clock tree
 ![Screenshot from 2024-10-18 22-54-14](https://github.com/user-attachments/assets/c87cf397-75a8-4e42-81fc-d5786f78b3ca)
 ![Screenshot from 2024-10-18 22-57-06](https://github.com/user-attachments/assets/2eea1763-ca38-4531-a5b5-2415a59c6ae7)
+### 1.Fix up small DRC errors
 ![Screenshot from 2024-10-18 22-57-45](https://github.com/user-attachments/assets/4ddeb6ec-847b-4ae7-ba42-370459f6e3bb)
-4
 ![Screenshot from 2024-10-18 23-02-29](https://github.com/user-attachments/assets/79820154-90ad-4cdb-ba04-86a37bf853ec)
+### 2.Save the finalized layout and open it
 ![Screenshot from 2024-10-18 23-10-20](https://github.com/user-attachments/assets/0595d617-03c1-4abf-b226-44ee3e4e588b)
+### 3.Edit config.tcl
 ![Screenshot from 2024-10-18 23-51-02](https://github.com/user-attachments/assets/65ff6382-ce46-469f-9b18-60be4f80306f)
 ![Screenshot from 2024-10-18 23-51-58](https://github.com/user-attachments/assets/48544fb5-b3d5-4fe2-a751-ac0c0ebd2a91)
 ![Screenshot from 2024-10-18 23-53-15](https://github.com/user-attachments/assets/cd9086e6-c4a2-40f0-964c-4b69a79f2aaf)
+###  $. Remove and reduce newly introduced violations
 ![Screenshot from 2024-10-18 23-54-34](https://github.com/user-attachments/assets/cf6a54f2-10da-4846-95df-67149e6f63d6)
 ![Screenshot from 2024-10-18 23-54-39](https://github.com/user-attachments/assets/ee94075d-c779-42ca-80ea-01fe1bcc33dd)
 ![Screenshot from 2024-10-19 00-15-49](https://github.com/user-attachments/assets/2737f774-2e8b-4fa4-a268-5132f8a1fe5a)
@@ -150,7 +153,7 @@ Area of Die in Microns = 660.685 ∗ 671.405 = 443587.212425Square Microns
 ![Screenshot from 2024-10-19 03-27-38](https://github.com/user-attachments/assets/f0dd7e66-9749-4e47-a382-6f26b0f0a4da)
 ![Screenshot from 2024-10-19 03-27-51](https://github.com/user-attachments/assets/cf3ae6f9-e639-4dd8-a7c3-fe76b3e158f7)
 ![Screenshot from 2024-10-19 03-30-12](https://github.com/user-attachments/assets/bf9374b0-7cc8-4a7c-8ac9-c622df3bce10)
-![Screenshot from 2024-10-19 03-36-26](https://github.com/user-attachments/assets/182b02ac-7d4c-4eb4-84fa-90dd43352a69)
+
 ![Screenshot from 2024-10-19 03-37-20](https://github.com/user-attachments/assets/59824a97-f0a7-4d26-b4db-aca370f206fe)
 ![Screenshot from 2024-10-19 03-38-10](https://github.com/user-attachments/assets/22f9e2ad-f066-4539-b8a4-b942b4711f1e)
 ![Screenshot from 2024-10-19 03-38-28](https://github.com/user-attachments/assets/76441e43-675f-4dc0-b128-eb1bf6b6d4ab)
